@@ -1,4 +1,4 @@
-%% Section 2: Include necessary files
+%% Section 1: Include necessary files
 addpath('./Algorithms/cell_array/');
 addpath('./Config/NN/');
 DATA_ROOT = './Data/';
