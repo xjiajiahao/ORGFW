@@ -1,0 +1,1 @@
+The folder `vector` contains algorithms for problems in which the variable is a vector. The folder `cell_array` contains algorithms for problems in which the variable is a cell array (e.g., neural network).

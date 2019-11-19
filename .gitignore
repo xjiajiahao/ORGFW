@@ -1,0 +1,6 @@
+Data/
+**/*.mexa64
+*.txt
+**/*.fig
+Data/CIFAR-10/
+Data/CIFAR10_dataset.mat
