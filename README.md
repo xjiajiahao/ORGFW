@@ -28,7 +28,7 @@ end
 After saving changes to `main_NN.m`, type `main_NN` in the MATLAB command window.
 
 ### Project Structure
-```
+``` bash
 ├── Algorithms
 │   ├── README.m
 │   ├── cell_array
