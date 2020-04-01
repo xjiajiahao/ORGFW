@@ -1,3 +1,5 @@
 **/*.mexa64
 *.txt
 **/*.fig
+Data/CIFAR10_dataset.mat
+Data/MNIST_dataset.mat
